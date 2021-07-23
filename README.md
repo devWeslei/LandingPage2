@@ -1,4 +1,4 @@
-# PandingPage2  
+# LandingPage2  
 ## Demo
 ![Preview-Screens](https://github.com/devWeslei/LandingPage2/blob/main/imagens/demo.gif)
 
